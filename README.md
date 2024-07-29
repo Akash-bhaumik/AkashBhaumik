@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning java Development
+- 🔭 &nbsp; I’m currently learning python programming language.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing Btech in Computer Science Specialization With Cyber Security.
 - 🌱 &nbsp; Enthusiast in cyber Security and Cloud Computing (Exploring AWS) .
 - ✍️ &nbsp; Reading Selfhelp,Autobiography,Stratup,Financial Literacy,Science Fiction Books 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Python | C  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | Bash | C  
+- 🌐 &nbsp; Wev dev | HTML | CSS | JavaScript | Bootstrap | MERN 
 - 🛢 &nbsp; Cyber Security | Cloud Computing | Sofware Development 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 
