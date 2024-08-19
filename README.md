@@ -15,7 +15,7 @@
 - 💻 &nbsp; Python | Bash | C  
 - 🌐 &nbsp; Wev dev | HTML | CSS | JavaScript | Bootstrap | MERN 
 - 🛢 &nbsp; Cyber Security | Cloud Computing | Sofware Development 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
 
 <h3> 🤝🏻 Connect with Me </h3>
